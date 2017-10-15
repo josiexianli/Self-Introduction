@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XLI_StudentInformation_Relative</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_android">Hello Android</string>
+    <string name="name">Xian Li</string>
+    <string name="programming_background1">Programming Background: I have worked some class project in Java. I am familiar with Java, JavaScript and SQL.</string>
+    <string name="date">10/02/2017</string>
+    <string name="picture_description">Graduation Photo Taken in University of Washington-Seattle</string>
+</resources>
